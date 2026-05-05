@@ -1,0 +1,75 @@
+{
+    
+        "2026": {
+        "episodes":{
+            "1" : {
+                "title": "The Blessing of Being a Father",
+                "time": 30,
+                "date": "4/23/26"
+            },
+            "2" : {
+                "title": "My Heart for Idols Aside ministries (Ep.014)",
+                "time": 26,
+                "date": "3/25/26"
+            },
+            "3" : {
+                "title": "The Freedom of God's Grace (Ep.013)",
+                "time": 26,
+                "date": "2/26/26"
+            },
+            "4" : {
+                "title": "Full Circle Moments (Ep.012)",
+                "time": 40,
+                "date": "1/10/26"
+            }
+        }},
+
+        "2025": {
+        "episodes":{
+            "1": {
+                "title": "A Young Pastor's Vision (Ep.011)",
+                "time": 60,
+                "date": "12/24/25"
+            },
+            "2" : {
+                "title": "Let's Talk With Karly (Ep.010)",
+                "time": 16,
+                "date": "11/5/2"
+            },
+            "3" : {
+                "title": "A New Partnership w/ Ashley Stiles (Ep.09)",
+                "time": 28,
+                "date": "10/25/25"
+            },
+            "4" : {
+                "title": "Trusting God Through The Trials (Ep.08)",
+                "time": 32,
+                "date": "9/21/25"
+            }
+        }},
+
+        "2024": {
+        "episodes":{
+            "1": {
+                "title": "Walking In Obedience w/ Jesse Hedrick",
+                "time": 29,
+                "date": "12/30/24"
+            },
+            "2" : {
+                "title": "Second Chances w/ Jesse Hedrick",
+                "time": 19,
+                "date": "12/25/24"
+            },
+            "3" : {
+                "title": "Know God by Knowing his Word w/ Jesse Hedrick",
+                "time": 28,
+                "date": "11/20/24"
+            },
+            "4" : {
+                "title": "Nurturing Your Relationship with God w/ Jesse Hedrick",
+                "time": 24,
+                "date": "11/20/24"
+            }
+        }}
+    
+}
