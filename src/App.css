@@ -272,7 +272,8 @@ span  {
   height: 75%;
   background-color: black;
   border-radius: .5rem;
-  background-image: url(./assets/podcast-image.png);
+  /* background-image: url(./assets/podcast-image.png); */
+  background-image: url(/src/assets/podcast-image.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

@@ -24,11 +24,11 @@ export default function Section2() {
             <div className="hero-buttons">
                 <button>
                     Contact Us
-                    <span class="material-symbols-outlined">trending_flat</span>
+                    <span className="material-symbols-outlined">trending_flat</span>
                 </button>
                 <button>
                     Read more
-                    <span class="material-symbols-outlined">trending_flat</span>
+                    <span className="material-symbols-outlined">trending_flat</span>
                 </button>
             </div>
         </div>
