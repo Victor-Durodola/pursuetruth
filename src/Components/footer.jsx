@@ -3,8 +3,8 @@ import React from 'react'
 export default function Footer() {
   return (
     <div className='footer'>
-        {/* <img src="WHITE-LOGO.svg" alt="logo" width={150} height={150}/> */}
-        <img src={"/pursuetruth/public/WHITE-LOGO.svg" || "WHITE-LOGO.svg"} alt="logo" width={150} height={150}/>
+        {/* <img src="../public/WHITE-LOGO.svg" alt="logo" width={150} height={150}/> */}
+        <img src={"WHITE-LOGO.svg"} alt="logo" width={150} height={150}/>
         <div className="podcast-link">
             <div className="links">ABOUT</div>
             <div className="links">PODCAST</div>
