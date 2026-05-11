@@ -11,7 +11,7 @@ export default function Episode() {
         <div className="episode-title">
             Walking in obedeience W/ Jesse Hedtick
         </div>
-        <img className= "episode-image" src="podcast-image.png" alt="img" />
+        <img className= "episode-image" src={"/pursuetruth/src/assets/podcast-image.png" || "podcast-image.png"} alt="img" />
         {/* <img className= "episode-image" src="/pursuetruth/src/assets/podcast-image.png" alt="" /> */}
         {/* <div className="episode-image"></div> */}
     </div>
